@@ -30,3 +30,6 @@ pnpm-debug.log*
 # OS files
 .DS_Store
 Thumbs.db
+
+# Local Spring Boot secrets
+backend/src/main/resources/application-local.properties
